@@ -46,7 +46,7 @@
 ├── tests/                  # Unit and integration tests
 ├── README.md               # This very file
 └── setup.py                # Setup script for package installation
-
+```
 ---
 
 ## **🔧 Setup & Installation**
